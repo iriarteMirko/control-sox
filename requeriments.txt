@@ -1,0 +1,8 @@
+cx_oracle
+pandas
+openpyxl
+customtkinter
+numpy
+pillow
+pyinstaller
+timedelta
